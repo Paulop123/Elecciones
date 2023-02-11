@@ -3,7 +3,7 @@
 ## Imagenes de los candidatos
 
 ##Aquiles Alvares
-*![Aquiles Alvares](D:\Varias tareas\Imagenes de pagina web desarrollo\aquilez-alvarez.jpg)
+*![Aquiles Alvares](D:/Varias tareas/Imagenes de pagina web desarrollo/aquilez-alvarez.jpg)
 
 ##Cynthia Viteri
 *![Cynthia Viteri](D:\Varias tareas\Imagenes de pagina web desarrollo\cynthia-viteri.jpg)
