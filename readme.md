@@ -15,8 +15,6 @@
 *![Pedro Pablo Duart](D:\Varias tareas\Imagenes de pagina web desarrollo\pedro-duart.jpg)
 
 
-
-
 ## Resultados
 
 | Candidatos         | Votos   |
