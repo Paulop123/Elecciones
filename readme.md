@@ -2,12 +2,14 @@
 
 ## Imagenes de los candidatos
 
+##Aquiles Alvares
+*![Aquiles Alvares](D:\Varias tareas\Imagenes de pagina web desarrollo\aquilez-alvarez.jpg)
 
-![Aquiles Alvares](/ruta/a/la/imagen.jpg)
+##Cynthia Viteri
+*![Cynthia Viteri](D:\Varias tareas\Imagenes de pagina web desarrollo\cynthia-viteri.jpg)
 
-*![Cynthia Viteri](/ruta/a/la/imagen.jpg)
-
-*![Pedro Pablo Duart](/ruta/a/la/imagen.jpg)
+##Pedro Pablo Duart
+*![Pedro Pablo Duart](D:\Varias tareas\Imagenes de pagina web desarrollo\pedro-duart.jpg)
 
 
 
