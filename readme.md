@@ -4,15 +4,15 @@
 
 ## Aquiles Alvares
 
-*![Aquiles Alvares](D:\Varias tareas\Imagenes de pagina web desarrollo\aquilez-alvarez.jpg)
+*![Aquiles Alvares](D:\Varias tareas\Imagenes desarrollo web\Aquiles_alvarez.jpeg)
 
 ## Cynthia Viteri
 
-*![Cynthia Viteri](D:\Varias tareas\Imagenes de pagina web desarrollo\cynthia-viteri.jpg)
+*![Cynthia Viteri](D:\Varias tareas\Imagenes desarrollo web\Cynthia_Viteri.jpg)
 
 ## Pedro Pablo Duart
 
-*![Pedro Pablo Duart](D:\Varias tareas\Imagenes de pagina web desarrollo\pedro-duart.jpg)
+*![Pedro Pablo Duart](D:\Varias tareas\Imagenes desarrollo web\Pedro_pablo_duart.jpeg)
 
 
 ## Resultados
