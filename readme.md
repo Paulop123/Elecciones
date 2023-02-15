@@ -4,7 +4,7 @@
 
 ## Aquiles Alvares
 
-*![Aquiles Alvares](D:\Varias tareas\Imagenes desarrollo web\Aquiles_alvarez.jpeg)
+*![Aquiles Alvares](https://github.com/Paulop123/Elecciones.git/Aquiles_alvarez.jpeg)
 
 ## Cynthia Viteri
 
