@@ -4,7 +4,7 @@
 
 ## Aquiles Alvares
 
-*![Aquiles Alvares](https://github.com/Paulop123/Elecciones/blob/main/Aquiles_alvarez.jpeg)
+![Aquiles Alvares](https://github.com/Paulop123/Elecciones/blob/main/Aquiles_alvarez.jpeg)
 
 ## Cynthia Viteri
 
