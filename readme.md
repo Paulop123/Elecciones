@@ -8,11 +8,11 @@
 
 ## Cynthia Viteri
 
-*![Cynthia Viteri](D:\Varias tareas\Imagenes desarrollo web\Cynthia_Viteri.jpg)
+![Cynthia Viteri](https://github.com/Paulop123/Elecciones/blob/main/Cynthia_Viteri.jpg)
 
 ## Pedro Pablo Duart
 
-*![Pedro Pablo Duart](D:\Varias tareas\Imagenes desarrollo web\Pedro_pablo_duart.jpeg)
+![Pedro Pablo Duart](https://github.com/Paulop123/Elecciones/blob/main/Pedro_pablo_%20duart.jpeg)
 
 
 ## Resultados
