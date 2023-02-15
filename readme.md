@@ -4,15 +4,15 @@
 
 ## Aquiles Alvares
 
-![Aquiles Alvares](https://github.com/Paulop123/Elecciones/blob/main/Aquiles_alvarez.jpeg)
+[![Aquiles-alvarez.jpg](https://i.postimg.cc/1tp1Wxsc/Aquiles-alvarez.jpg)](https://postimg.cc/G8hf25BH)
 
 ## Cynthia Viteri
 
-![Cynthia Viteri](https://github.com/Paulop123/Elecciones/blob/main/Cynthia_Viteri.jpg)
+[![Cynthia-Viteri.jpg](https://i.postimg.cc/tJkQjh1s/Cynthia-Viteri.jpg)](https://postimg.cc/ctv57tBW)
 
 ## Pedro Pablo Duart
 
-![Pedro Pablo Duart](https://github.com/Paulop123/Elecciones/blob/main/Pedro_pablo_%20duart.jpeg)
+[![Pedro-pablo-duart.jpg](https://i.postimg.cc/WzTLC94R/Pedro-pablo-duart.jpg)](https://postimg.cc/gXST6HR4)
 
 
 ## Resultados
